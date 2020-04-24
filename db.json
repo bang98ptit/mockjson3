@@ -1,0 +1,50 @@
+{
+"users":[
+        {
+            "id":1,
+            "user": {
+              "email": "trabf@gmail.com",
+              "username": "admin",
+              "password": "123456",
+              "phoneNumber": "0982547168"
+                },
+            "roleIds": [6]
+        },
+        {
+            "id":2,
+            "user": {
+              "email": "trabf@gmail.com.vn",
+              "username": "admin",
+              "password": "123456",
+              "phoneNumber": "0982547168"
+                },
+            "roleIds": [6]
+
+        }
+    ],
+    "permissions":[
+        {
+            "id":1,
+            "name": "create.role",
+            "description": "test"
+        },
+        {
+            "id":2,
+            "name": "create.role2",
+            "description": "test2"
+        }
+    ],
+     "states":[
+        {
+            "id":1,
+            "name": "name",
+	        "description": "test descriptipn"
+        },
+        {
+            "id":2,
+            "name": "name2",
+	        "description": "test descriptipn2"
+        }
+    ]
+
+}
