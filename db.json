@@ -45,6 +45,55 @@
             "name": "name2",
 	        "description": "test descriptipn2"
         }
+    ],
+"images":[
+        {
+            "id":1,
+            "images" : [
+                    {
+                    "url": "asdawqe",
+                    "translations": [
+                        {
+                            "title": "sdwdasd",
+                            "description": "This is description",
+                            "locale": "en_EN"
+                        },
+                        {
+                            "title": "asdasdads",
+                            "description": "asdasdas",
+                            "locale": "vi_VN"
+                        }
+                    ]
+                },
+                    {
+                    "url": "hung",
+                    "translations": [
+                        {
+                            "title": "sdwdasd",
+                            "description": "This is description",
+                            "locale": "en_EN"
+                        },
+                        {
+                            "title": "asdasdads",
+                            "description": "asdasdas",
+                            "locale": "vi_VN"
+                        }
+                    ]
+                }
+                ]
+        }
+    ],
+    "roles":[
+        {
+            "id":1,
+            "name": "ADMIN",
+            "description": "test "
+        },
+        {
+            "id":2,
+            "name": "ADMIN2",
+            "description": "test2 "
+        }
     ]
 
 }
